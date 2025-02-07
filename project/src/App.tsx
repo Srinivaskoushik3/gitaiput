@@ -16,7 +16,7 @@ function App() {
               <div className="w-10 h-10 rounded-full bg-black flex items-center justify-center">
                 <span className="text-white font-semibold">L</span>
               </div>
-              <span className="font-bold text-xl">Lorem</span>
+              <span className="font-bold text-xl">koushik</span>
             </div>
 
             {/* Navigation Links */}
